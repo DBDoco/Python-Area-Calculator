@@ -1,5 +1,5 @@
 <h1 align="center">
-  ICE - CSS Library
+  Python Area Calculator
   <br>
 </h1>
 
